@@ -1,4 +1,4 @@
-# This is a hotel menu app with the following features.(front-end)
+# This is a hotel menu app with the following features.(front-end & Back-end)
 ##Food , drinks & snacks
 ##Prices
 ##categories(breakfast, lunch &  supper)
